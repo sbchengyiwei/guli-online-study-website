@@ -1,6 +1,6 @@
-# Grain-online-study-website
+# Guli-online-study-website
 
-> Grain online study website, or called Grain Education System project, with the back end using the currently popular SpringBoot-SpringCloud microservices architecture, uses components such as Feign, Gateway, Hystrix, and Alibaba's Nacos to build the foundation environment for the project. The project also uses MyBatisPlus for persistent layer operations, uses OAuth2-JWT for distributed access, and integrates Spring Security for permission control. In addition, the project uses Alibaba's EasyExcel to implement read and write to Excel, Redis to cache home page data, Git for code version control, and Swagger to generate interface documents.
+> Guli online study website, or called Guli Education System project, with the back end using the currently popular SpringBoot-SpringCloud microservices architecture, uses components such as Feign, Gateway, Hystrix, and Alibaba's Nacos to build the foundation environment for the project. The project also uses MyBatisPlus for persistent layer operations, uses OAuth2-JWT for distributed access, and integrates Spring Security for permission control. In addition, the project uses Alibaba's EasyExcel to implement read and write to Excel, Redis to cache home page data, Git for code version control, and Swagger to generate interface documents.
 
 Example：https://www.zwsub.com/
 
